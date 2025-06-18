@@ -32,3 +32,5 @@ Key Features
 - Personalization: Can remember and use user's name
 
 - Wolfram Alpha Integration: For answering factual questions
+
+If you like this project, consider giving it a ⭐️ on GitHub!
